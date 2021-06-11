@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InduKS
-- 👀 I’m interested in learning new things and experimenting 
+- 👀 I’m interested in Cloud Engineering, Docker and Python.
 - 🌱 I’m currently learning Docker and Terraform
 - 💞️ I’m not looking for any collaborations at the moment
 
