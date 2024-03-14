@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InduKS
-- 👀 I’m interested in Cloud Engineering, Docker and Python.
-- 🌱 I’m currently learning Docker and Kubernetes
+- 👀 I’m interested in DevOps and Cloud Engineering.
+- 🌱 I’m currently learning Terraform and Kubernetes
 - 💞️ I’m not looking for any collaborations at the moment
 
 <!---
